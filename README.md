@@ -1,6 +1,6 @@
 In this lesson we will learn about the the Terminal and the version control software Git and its social application, GitHub
 
-## Using the Command Line
+## Part 1: Using the Command Line
 
 #### Learning Objectives
 *After this lesson, you will be able to:*
@@ -17,7 +17,7 @@ In this lesson we will learn about the the Terminal and the version control soft
     we'll be going over these commands in class, just make sure you are able to describe what each of them means).
 
 
-## Introduction to Git
+## Part 2: Introduction to Git
 
 #### LEARNING OBJECTIVES
 *After this lesson, you will be able to:*
@@ -43,6 +43,9 @@ Practice executing code and learning more about the iPython Jupyter Notebook.
 ---
 
 # Getting Started with Data Science Tools
+
+_Be sure that you have completed the pre-work installations prior to this lesson_
+
 These items are included in the Data Science prework and are intended to help students prepare for the first day of class.
 -       Github Account
 -       Installations
