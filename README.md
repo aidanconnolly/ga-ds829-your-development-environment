@@ -9,8 +9,8 @@
 | Topic | Description | Link |
 | --- | --- | --- |
 | Lesson | Two part lesson, outlined below | [Here](Your-Development-Environment.ipynb) |
-| Extra Materials | iPython Notebook Practice | [Here](IpythonNotebookPractice/ipynb_practice1.ipynb) |
-| Solutions | iPython Notebook Practice Solutions | [Here](IpythonNotebookPractice/solution-code/ipynb_practice1-solution.ipynb) |
+| Extra Materials | Jupyter Notebook Practice | [Here](IpythonNotebookPractice/ipynb_practice1.ipynb) |
+| Solutions | Jupyter Notebook Practice Solutions | [Here](IpythonNotebookPractice/solution-code/ipynb_practice1-solution.ipynb) |
 
 
 ---
@@ -60,10 +60,18 @@
 ## Student Requirements
 
 Before this lesson(s), students should already be able to:
-- Login to your General Assembly GitHubEnterprise account.
-- Utilize the Git Language
-- Utilize Anaconda Navigator
+- Login to your General Assembly GitHub Enterprise account.
+- Determine your current python version
+- [Download and install Anaconda](https://www.continuum.io/downloads)
+- [Download and install `git bash` if needed](https://git-for-windows.github.io)
 
 ## Additional Resources
 
 For more information on this topic, check out the following resources:
+
+- [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
+- [Terminal: Mac vs PC](https://stackoverflow.com/questions/28487128/what-program-in-windows-is-equivalent-to-oss-terminal)
+- [Try Git - Basic Syntax practice](https://try.github.io/levels/1/challenges/1)
+- [Extra Command Line Practice](http://generalassembly.github.io/prework/cl/)
+- [Jupyter Notebook Documentation](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)
+
