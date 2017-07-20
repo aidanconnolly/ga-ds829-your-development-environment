@@ -11,6 +11,7 @@
 | Lesson | Two part lesson, outlined below | [Here](Your-Development-Environment.ipynb) |
 | Extra Materials | Jupyter Notebook Practice | [Here](IpythonNotebookPractice/ipynb_practice1.ipynb) |
 | Solutions | Jupyter Notebook Practice Solutions | [Here](IpythonNotebookPractice/solution-code/ipynb_practice1-solution.ipynb) |
+| Extra Materials | Source Materials Adapted For This Lesson | [Here](IpythonNotebookPractice/assets/originals/) |
 
 
 ---
