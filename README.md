@@ -13,6 +13,7 @@
 | Solutions | Jupyter Notebook Practice Solutions | [Here](IpythonNotebookPractice/solution-code/ipynb_practice1-solution.ipynb) |
 | Extra Materials | Source Materials Adapted For This Lesson | [Here](IpythonNotebookPractice/assets/originals/) |
 
+The Jupyter Notebook Practice can be used as a take-home practice assignment. Students often do not understand Git, so the majority of this lesson will be understanding and practicing Git.
 
 ---
 
@@ -36,24 +37,25 @@
 
 ## Lesson Outline
 
-**Part 1 : Using the Command Line**
+**Part 1 : Using the Command Line** (70 mins)
 - Introduction
-- Command Line
-- Paths
-- Editing and Examining Files
-- Finding Files
-- Independent Practice
-- Intro to IDEs
+- Command Line (10 mins)
+- Paths/Navigating (20 mins)
+- Editing and Examining Files (10 mins)
+- Finding Files (10 mins)
+- Independent Practice (10 mins)
+- Intro to IDEs (10 mins)
 - Conclusion
 
-**Part 2 : Git and GitHub**
+**Part 2 : Git and GitHub** (100 mins)
 - Introduction
-- Git Basics
-- GitHub & GitHub Enterprise Accounts
-- Creating and Cloning Repos
-- Pulling
-- Secure Shell(SSH)
-- Independent Practice
+- Git Basics (15 mins)
+- Codealong: Let's Git into it! (20 mins)
+- Setting up Accounts: GitHub & GitHub Enterprise Accounts (10 mins)
+- Codealong: Creating and Cloning Repos (20 mins)
+- Codealong: Create a Pull Request on GitHub: (15 mins)
+- Secure Shell(SSH) (10 mins)
+- Independent Practice (10 mins)
 - Conclusion
 
 ---
