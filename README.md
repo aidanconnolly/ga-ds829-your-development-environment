@@ -9,9 +9,9 @@
 | Topic | Description | Link |
 | --- | --- | --- |
 | Lesson | Two part lesson, outlined below | [Here](Your-Development-Environment.ipynb) |
-| Extra Materials | Jupyter Notebook Practice | [Here](IpythonNotebookPractice/ipynb_practice1.ipynb) |
-| Solutions | Jupyter Notebook Practice Solutions | [Here](IpythonNotebookPractice/solution-code/ipynb_practice1-solution.ipynb) |
-| Extra Materials | Source Materials Adapted For This Lesson | [Here](IpythonNotebookPractice/assets/originals/) |
+| Extra Materials | Jupyter Notebook Practice | [Here](practice/ipynb_practice1.ipynb) |
+| | Practice Solutions | [Here](practice/solution-code/ipynb_practice1-solution.ipynb) |
+| Extra Materials | Source Materials Adapted For This Lesson | [Here](practice/assets/originals/) |
 
 The Jupyter Notebook Practice can be used as a take-home practice assignment. Students often do not understand Git, so the majority of this lesson will be understanding and practicing Git.
 
@@ -77,4 +77,3 @@ For more information on this topic, check out the following resources:
 - [Try Git - Basic Syntax practice](https://try.github.io/levels/1/challenges/1)
 - [Extra Command Line Practice](http://generalassembly.github.io/prework/cl/)
 - [Jupyter Notebook Documentation](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)
-
