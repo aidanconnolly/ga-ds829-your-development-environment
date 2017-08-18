@@ -9,9 +9,9 @@
 | Topic | Description | Link |
 | --- | --- | --- |
 | Lesson | Two part lesson, outlined below | [Here](Your-Development-Environment.ipynb) |
-| Practice Activity | Jupyter Notebook Practice | [Here](practice/ipynb_practice1.ipynb) |
-| Practice Solutions | Jupyter Notebook Solutions | [Here](practice/solution-code/ipynb_practice1-solution.ipynb) |
-| Extra Materials | Source Materials Adapted For This Lesson | [Here](/assets/originals/) |
+| Practice Activity | Jupyter Notebook Practice | [Here](./practice/ipynb_practice1.ipynb) |
+| Practice Solutions | Jupyter Notebook Solutions | [Here]./(practice/solution-code/ipynb_practice1-solution.ipynb) |
+| Extra Materials | Source Materials Adapted For This Lesson | [Here](./extra-materials/originals/) |
 
 The Jupyter Notebook Practice can be used as a take-home practice assignment. Students often do not understand Git, so the majority of this lesson will be understanding and practicing Git.
 
