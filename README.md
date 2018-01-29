@@ -13,11 +13,10 @@
 | Practice Solutions | Jupyter Notebook Solutions | [Here](./practice/solution-code/ipynb_practice1-solution.ipynb) |
 | Extra Materials | Source Materials Adapted For This Lesson | [Here](./extra-materials/) |
 
-The Jupyter Notebook Practice can be used as a take-home practice assignment. Students often do not understand Git, so the majority of this lesson will be understanding and practicing Git.
-
 ---
 
 ## Learning Objectives
+By the end of this lesson, students will be able to:
 
 ### Part 1 : Using the Command Line
 
@@ -33,11 +32,24 @@ The Jupyter Notebook Practice can be used as a take-home practice assignment. St
 - Clone remote repositories.
 - Establish Secure Shell connections to remote repositories.
 
-----
+---
+
+## Student Requirements
+
+Before this lesson(s), students should already be able to:
+- Login to their General Assembly GitHub Enterprise account.
+- Determine their current python version
+- [Download and install Anaconda](https://www.continuum.io/downloads)
+- [Download and install `git bash` if needed](https://git-for-windows.github.io)
+
+---
 
 ## Lesson Outline
 
-**Part 1 : Using the Command Line** (70 mins)
+> Instructor Note: The Jupyter Notebook Practice can be used as a take-home practice assignment. Students often do not understand Git right away, so the majority of this lesson will be understanding and practicing Git.
+
+### Outline: Part 1 (Using the Command Line)
+> 70 mins
 - Introduction
 - Command Line (10 mins)
 - Paths/Navigating (20 mins)
@@ -47,7 +59,8 @@ The Jupyter Notebook Practice can be used as a take-home practice assignment. St
 - Intro to IDEs (10 mins)
 - Conclusion
 
-**Part 2 : Git and GitHub** (100 mins)
+### Outline: Part Two (Git and GitHub)
+> 100 mins
 - Introduction
 - Git Basics (15 mins)
 - Codealong: Let's Git into it! (20 mins)
@@ -59,14 +72,6 @@ The Jupyter Notebook Practice can be used as a take-home practice assignment. St
 - Conclusion
 
 ---
-
-## Student Requirements
-
-Before this lesson(s), students should already be able to:
-- Login to your General Assembly GitHub Enterprise account.
-- Determine your current python version
-- [Download and install Anaconda](https://www.continuum.io/downloads)
-- [Download and install `git bash` if needed](https://git-for-windows.github.io)
 
 ## Additional Resources
 
